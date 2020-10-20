@@ -1,0 +1,14 @@
+Manny Hernandez
+CSC110
+Dinesh Sthapit
+WK8 Project Draft
+10/19/2020
+
+This is the Project Draft for WK8 in GitHub.
+
+Uploaded all assignments through Git Bash.
+
+All Assignments were uploaded to GitHub Repository.
+
+Thank you!
+
